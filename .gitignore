@@ -306,3 +306,4 @@ weights/*
 static/
 
 .python-version
+.vscode
